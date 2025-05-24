@@ -1,0 +1,7 @@
+[
+  {
+    "name": "HTTP POST",
+    "id": "httpextension",
+    "extensionURL": "https://raw.githubusercontent.com/Nicholas-PM/Scratch-Vete-a-la-Versh/main/http-scratch-extension.js"
+  }
+]
